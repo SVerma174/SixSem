@@ -1,0 +1,13 @@
+/* Main.css */
+body {
+    background-color: #0077b6; /* Ocean blue background */
+  }
+  
+  .flex-grow {
+    flex-grow: 1;
+  }
+  
+  .mt-10 {
+    margin-top: 2.5rem;
+  }
+  
